@@ -1,0 +1,17 @@
+.single-service{
+    margin: 5px;
+    padding: 5px;
+    border-left: 1px solid red;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+    border-top: 1px solid red;
+    border-radius: 10px;
+}
+.single-service img{
+    border-radius: 5px;
+}
+.single-service img:hover{
+    border: 1px double black;
+    transform: translate(2px, 4px);
+    transition-delay:1s ;
+}

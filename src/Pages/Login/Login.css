@@ -1,0 +1,13 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+}
+.inputs{
+    margin: 3px;
+    padding: 3px;
+}
+.inputs:hover{
+    background-color: rgb(250, 199, 199);
+    color: gray;
+}

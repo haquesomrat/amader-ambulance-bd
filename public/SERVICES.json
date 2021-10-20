@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "AC Ambulance",
+        "img": "https://i.ibb.co/NV6GWbL/ac.jpg",
+        "longdes": "AC ambulance is equipped with air condition system, that doesn’t belong to a non-AC ambulance, to keep the inner condition of the vehicle cool. This is suitable to maintain an appropriate temperature for any patients being treated. It is also needed for a country where the temperature is very high.",
+        "shortdes": "AC ambulance is equipped with air condition system, that doesn’t belong to a non-AC ambulance..."
+    },
+    {
+        "id": 2,
+        "name": "Non-AC Ambulance",
+        "img": "https://i.ibb.co/28y3gy7/non-ac.jpg",
+        "longdes": "Non ac ambulance is a basic ambulance that has a bed, a stethoscope, an oxygen cylinder, a blood pressure measuring machine, and a first aid box containing syringe, antiseptic medicine, sterile gauze and saline. There should be a doctor, if not possible, at least a paramedic.",
+        "shortdes": "Non ac ambulance is a basic ambulance that has a bed, a stethoscope, an oxygen cylinder... "
+    },
+    {
+        "id": 3,
+        "name": "Freezer Ambulance",
+        "img": "https://i.ibb.co/XjkkFcN/freeze.jpg",
+        "longdes": "To move a dead body from one place to another place, the freezing van or freezing ambulance is used for that. In this case, the dead body is kept at the temperature of the filling ambulance (-5%) so that there is no smell from the dead body easily and the body is free from virus and virus free.Freezing Ambulance anybody can freeze the dead body according to his wishes. In this can any distance from any distance from Dhaka is hiked by distance. And if the car is waiting. In this  case you will have to pay BDT 600/- (Per Hour).More information: We can bring our freezing cars directly from Japan. All of our quality cars are kept clean with savlon and dettol.",
+        "shortdes": "To move a dead body from one place to another place, the freezing van or freezing ambulance is used for that. In this case..."
+    },
+    {
+        "id": 4,
+        "name": "ICU Ambulance",
+        "img": "https://i.ibb.co/bBkL8k6/icu.jpg",
+        "longdes": "ICU ambulance is a set up of hospital’s ICU unit in a vehicle. This type of ambulance caters to patients with life threatening injuries and illness to produce constant care. Doctors, along with trained nurses, in that ambulance, ensure normal bodily function until the patient reach to the hospital safely. Patient need to transfer to different unit of hospital or to other hospital if the condition deteriorates and/or after surgery if patient is at high risk of complications.",
+        "shortdes": "ICU ambulance is a set up of hospital’s ICU unit in a vehicle. This type of ambulance caters to... "
+    },
+    {
+        "id": 5,
+        "name": "Air Ambulance",
+        "img": "https://i.ibb.co/G2Ff36h/air.jpg",
+        "longdes": "It is a significant element of modern life to provide emergency medical service. Air ambulance service is provided through air plane and helicopter to move patients to and from healthcare facilities. The crews provide comprehensive pre-hospital and emergency service to all types of patients. Air ambulance started to provide its service to rescue patients form battlefield. Later, it started to extend service to civilian rescue service in their critical moments. Air ambulance is very beneficial for saving lives as it can travel faster and operate a wider coverage area than a land ambulance. It is mainly used to cover a longer distance with a shorter time.",
+        "shortdes": "It is a significant element of modern life to provide emergency medical service. Air ambulance... "
+    },
+    {
+        "id": 6,
+        "name": "Boat Ambulance",
+        "img": "https://i.ibb.co/rysKB62/boat.jpg",
+        "longdes": "Ambulance boats are boats that provide emergency medical assistance and services to areas that are remote and are surrounded by a water body. These ambulance boats are very similar to the traditional ambulances and are equipped with all the necessary gadgets including ventilators, surgery equipment, a team of paramedics, and other necessary equipment to provide aid to the victims. In cases of emergencies, some lifeguard vessels or lifeboats can also be used as ambulances to transport victims or casualties.",
+        "shortdes": "Ambulance boats are boats that provide emergency medical assistance and services to areas that..."
+    }
+]

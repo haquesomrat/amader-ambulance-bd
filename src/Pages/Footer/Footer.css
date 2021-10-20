@@ -1,0 +1,23 @@
+.footer-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    background-color: gray;
+    padding-left: 60px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.footer-container div p{
+    color: papayawhip;
+    font-weight: 400;
+}
+
+.footer-container div p:hover{
+    font-style: italic;
+}
+
+.emergency:hover{
+   color: white;
+}

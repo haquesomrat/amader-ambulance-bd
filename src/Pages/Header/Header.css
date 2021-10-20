@@ -1,0 +1,20 @@
+.logo{
+    height: 30px;
+    width: 30px;
+    margin-right: 50px;
+    
+}
+.logo:hover{
+    transform: rotate(180deg);
+    transition-duration: 2s;
+}
+.Navbar Container Navbar.Brand {
+    color: red;
+}
+.nav-bar{
+    border-right: 5px double black;
+    border-bottom: 5px double black;
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    border-radius: 10px;
+}
